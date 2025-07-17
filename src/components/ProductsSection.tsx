@@ -1,7 +1,7 @@
 // src/components/ProductsSection.tsx
 import React from "react";
 import product1000 from "../assets/kuli1.jpeg";
-import product2500 from "../assets/kuli1.jpeg";
+import product2500 from "../assets/KuliBig2.jpeg";
 
 export default function ProductsSection() {
   const products = [
